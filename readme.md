@@ -26,4 +26,4 @@ Selection 1: Adding Hawk to the table of animals in the zoo
 Table after 'Hawk' has been added:
 
 
-![](/Users/uzmapatel/Documents/Screenshot 2023-08-30 at 22.27.13.png)
+![](https://github.com/uzmportfolio/ZooLogbook/blob/main/Screenshot%202023-08-30%20at%2022.27.13.png)
