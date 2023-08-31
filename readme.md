@@ -21,7 +21,7 @@ desired outputs.
 ### Examples of results and the corresponding tables on the database:
 
 Selection 1: Adding Hawk to the table of animals in the zoo
-![](/Users/uzmapatel/Documents/Screenshot 2023-08-30 at 22.26.21.png)
+![](https://github.com/uzmportfolio/ZooLogbook/blob/main/Screenshot%202023-08-30%20at%2022.26.21.png)
 
 Table after 'Hawk' has been added:
 
